@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab4","l":"lab4.EmptySearchException"},{"p":"lab4","l":"lab4"},{"p":"lab4","l":"lab4.NoResultsFoundException"}];updateSearchResults();
