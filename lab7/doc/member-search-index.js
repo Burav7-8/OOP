@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lab6","c":"lab6","l":"lab6()","u":"%3Cinit%3E()"},{"p":"lab6","c":"lab6","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
